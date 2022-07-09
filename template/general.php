@@ -37,7 +37,7 @@ if ( ! defined( 'ABSPATH' ) ) { exit; }
                                 <br>
                                 <?php _e('If you do not use the desired functions, call the following functions in the desired location.', 'psascwp') ?>
                                 <br>
-                                <code>get_schema_category();</code>
+                                <code>get_psascwp_schema_category();</code>
                             </p>
                         </td>
                     </tr>
@@ -63,7 +63,7 @@ if ( ! defined( 'ABSPATH' ) ) { exit; }
                     rel="nofollow"><?php _e('Communication via Linkdin', 'psascwp' ); ?></a></span>
 
             <span class="social-all dashicons dashicons-email-alt <?php echo esc_html($class_style_social); ?>"><a
-                    href="https://mail:naderidefault@gmail.com" target="_blank"
+                    href="mail:naderidefault@gmail.com" target="_blank"
                     rel="nofollow"><?php _e('Communication via E-Mail', 'psascwp' ); ?></a></span>
 
             <span class="social-all dashicons dashicons-instagram <?php echo esc_html($class_style_social); ?>"><a
