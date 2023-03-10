@@ -1,9 +1,9 @@
 === Add Schema Category ===
 Contributors: (peymanseo)
 Tags: افزودن اسکیما به دسته بندی وردپرس، فعالسازی اسیکما دسته بندی وردپرس،add schema to category wordpress
-Requires at least: 5.5
-Tested up to: 6.0
-Stable tag: 0.0.1
+Requires at least: 7.4
+Tested up to: 6.1
+Stable tag: 2.0.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
